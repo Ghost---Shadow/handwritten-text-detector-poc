@@ -1,3 +1,6 @@
+# IMPORTANT
+
+Read [PROJECT_SPECIFIC_README](PROJECT_SPECIFIC_README.md) for reproducing the results.
 
 # Tensorflow Object Detection API
 Creating accurate machine learning models capable of localizing and identifying
